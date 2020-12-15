@@ -2,6 +2,7 @@
 // Автор: Петров К.А. (10.12.2020)
 // Компилятор g++.exe (gcc-2.95.2)
 // new comment in the dark
+// hiiiiiiiiiiiiiiiiiiihi
 #include <iostream>
 #include <vector>
 #include <algorithm>
