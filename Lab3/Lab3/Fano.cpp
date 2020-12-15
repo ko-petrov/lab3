@@ -1,7 +1,7 @@
 // Алгоритм кодирования Фано
 // Автор: Петров К.А. (10.12.2020)
 // Компилятор g++.exe (gcc-2.95.2)
-
+// new comment
 #include <iostream>
 #include <vector>
 #include <algorithm>
